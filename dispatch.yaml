@@ -1,3 +1,5 @@
 dispatch:
-  - url: "riwaholidays.com/*"
+  - url: "riwashop.com/*"
     service: default
+  - url: "watches.riwashop.com/*"
+    service: watches
